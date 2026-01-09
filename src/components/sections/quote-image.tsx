@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "next/img";
 
 export function QuoteImageSection() {
   return (
@@ -6,7 +6,7 @@ export function QuoteImageSection() {
       
       {/* รูปพื้นหลัง */}
       <Image
-        src="/images/quote.jpg"
+        src="/img/quote.jpg"
         alt="quote background"
         fill
         className="object-cover"
