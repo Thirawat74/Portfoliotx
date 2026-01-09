@@ -39,7 +39,7 @@ export function HeroSection() {
               themed
               className="mx-auto flex items-center justify-center w-fit max-w-full text-xs sm:text-sm md:text-base px-4 py-1.5 border border-border dark:border-secondary"
             >
-              <AnnouncementTag className="truncate">Latest update</AnnouncementTag>
+              <AnnouncementTag className="truncate">Full Stack</AnnouncementTag>
               <AnnouncementTitle className="flex items-center gap-2">
                 Web Developer
                 <ArrowUpRightIcon className="shrink-0 text-muted-foreground" size={16} />
