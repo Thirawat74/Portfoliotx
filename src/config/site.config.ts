@@ -56,9 +56,9 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  siteName: 'Muhammad Fiaz',
+  siteName: 'Thirawat',
   domain: 'muhammadfiaz.com',
-  author: 'Muhammad Fiaz',
+  author: 'Thirawat',
   description: 'Full Stack developer creating useful & delightful web experiences. Exploring ML & AI.',
   about:
     'I am a Full Stack developer who loves creating new things. I spend my spare time building free apps & tools, and I am currently diving into Machine Learning & AI to expand my problem‑solving toolkit. Always open to collaboration & new challenges.',
