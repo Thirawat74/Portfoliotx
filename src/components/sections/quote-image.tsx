@@ -6,7 +6,7 @@ export function QuoteImageSection() {
       
       {/* รูปพื้นหลัง */}
       <Image
-        src="/img/quote.jpg"
+        src="/img/public/img/20260108_142319(1).jpg"
         alt="quote background"
         fill
         className="object-cover"
