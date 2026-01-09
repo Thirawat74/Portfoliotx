@@ -19,7 +19,7 @@ export function QuoteImageSection() {
       {/* ข้อความ */}
       <div className="absolute inset-0 flex items-end">
         <div className="max-w-4xl px-6 md:px-16">
-          <p className="text-white text-2xl md:text-4xl font-bold leading-relaxed">
+          <p className="text-white text-2xl md:text-4xl font-bold leading-relaxed drop-shadow-lg">
             “โค้ดที่ดีไม่ได้เกิดจากการเขียนให้รันได้  
             แต่เกิดจากการเข้าใจตรรกะ  
             จนสามารถควบคุมมันได้”
