@@ -41,7 +41,7 @@ export function HeroSection() {
             >
               <AnnouncementTag className="truncate">Latest update</AnnouncementTag>
               <AnnouncementTitle className="flex items-center gap-2">
-                New Portfolio V4 🎉
+                Web Developer
                 <ArrowUpRightIcon className="shrink-0 text-muted-foreground" size={16} />
               </AnnouncementTitle>
             </Announcement>
@@ -52,7 +52,7 @@ export function HeroSection() {
                 <span className="block">{siteConfig.siteName}</span>
             </h1>
               <p className="mx-auto max-w-2xl sm:max-w-3xl text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-muted-foreground leading-relaxed px-4 sm:px-0">
-                I Build Next-Generation Technologies
+                "Never stop learning, because the world never stops teaching. Every challenge brings opportunity, and every failure is a step toward growth. Stay curious, keep moving forward, and let knowledge light your way."
               </p>
 
           </div>
